@@ -9,5 +9,5 @@ This is a simple Python-based tool that evaluates the strength of a password usi
 
 ### How to Run
 git clone https://github.com/O-CONQUEST/Password-Complexity-Checker.git
-cd Task03_PasswordComplexityChecker
+cd ProdigyTask03_PasswordComplexityChecker
 python password_checker.py
